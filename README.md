@@ -24,13 +24,16 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-A6A9AA?style=for-the-badge&logo=recoil&logoColor=white">
 <img src="https://img.shields.io/badge/Zustand-002157?style=for-the-badge&logo=Zustand&logoColor=white">
-<img src="https://img.shields.io/badge/Apollo Client-FF61F6?style=for-the-badge&logo=apollographql&logoColor=white">
 <img src="https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
 <br />
 
-<img src="https://img.shields.io/badge/Amazon AWS-FF7200?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/Apollo Client-FF61F6?style=for-the-badge&logo=apollographql&logoColor=white">
+
+<br />
+
+<img src="https://img.shields.io/badge/Amazon AWS-FF7200?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
 
