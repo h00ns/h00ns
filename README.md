@@ -33,7 +33,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Amazon AWS-FF7200?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF7200?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
 
