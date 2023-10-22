@@ -13,8 +13,9 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
 <br />
@@ -35,6 +36,7 @@
 
 <img src="https://img.shields.io/badge/AWS-FF7200?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
 
 <br />
