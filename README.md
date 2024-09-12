@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
+<img src="https://img.shields.io/badge/Cypress-A3E7CB?style=for-the-badge&logo=cypress&logoColor=white">
 
 <br />
 
